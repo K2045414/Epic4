@@ -1,0 +1,20 @@
+{
+  "name": "epic4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K2045414/Epic4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K2045414/Epic4/issues"
+  },
+  "homepage": "https://github.com/K2045414/Epic4#readme"
+}
